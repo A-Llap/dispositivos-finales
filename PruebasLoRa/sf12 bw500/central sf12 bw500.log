@@ -1,0 +1,1413 @@
+
+
+---- LORA CONFIGURATION TEST ----
+Spreading factor: 12
+Bandwidth: 500000
+
+
+[LoRa] Initializing LoRa Duplex
+[LoRa] LoRa init succeeded.
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 1
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -17.00 dB
+       Message: 0000000000000000
+       Mean RSSI: -101.00 dBm
+       Mean SNR: -17.00 dB
+
+[LoRa] Sent ACK1 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 2
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -6.75 dB
+       Message: 0000000000000000
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -11.88 dB
+
+[LoRa] Sent ACK2 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 3
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -7.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.33 dBm
+       Mean SNR: -10.50 dB
+
+[LoRa] Sent ACK3 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 4
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -7.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -9.69 dB
+
+[LoRa] Sent ACK4 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 5
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -8.75 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.40 dBm
+       Mean SNR: -9.50 dB
+
+[LoRa] Sent ACK5 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 6
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -100 dBm
+       SNR: -8.25 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.17 dBm
+       Mean SNR: -9.29 dB
+
+[LoRa] Sent ACK6 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 7
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -9.25 dB
+       Message: 0000000000009c41
+       Mean RSSI: -101.29 dBm
+       Mean SNR: -9.29 dB
+
+[LoRa] Sent ACK7 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 8
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -103 dBm
+       SNR: -9.75 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -9.34 dB
+
+[LoRa] Sent ACK8 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 9
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -9.50 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.56 dBm
+       Mean SNR: -9.36 dB
+
+[LoRa] Sent ACK9 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 10
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.25 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -9.35 dB
+
+[LoRa] Sent ACK10 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 11
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.45 dBm
+       Mean SNR: -9.48 dB
+
+[LoRa] Sent ACK11 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 12
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.00 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.42 dBm
+       Mean SNR: -9.60 dB
+
+[LoRa] Sent ACK12 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 13
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.00 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.38 dBm
+       Mean SNR: -9.56 dB
+
+[LoRa] Sent ACK13 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 14
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.00 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.36 dBm
+       Mean SNR: -9.52 dB
+
+[LoRa] Sent ACK14 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 15
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.33 dBm
+       Mean SNR: -9.48 dB
+
+[LoRa] Sent ACK15 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 16
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.31 dBm
+       Mean SNR: -9.63 dB
+
+[LoRa] Sent ACK16 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 17
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.35 dBm
+       Mean SNR: -9.72 dB
+
+[LoRa] Sent ACK17 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 18
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.33 dBm
+       Mean SNR: -9.82 dB
+
+[LoRa] Sent ACK18 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 19
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.25 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.32 dBm
+       Mean SNR: -9.84 dB
+
+[LoRa] Sent ACK19 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 20
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.30 dBm
+       Mean SNR: -9.80 dB
+
+[LoRa] Sent ACK20 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 21
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.25 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.29 dBm
+       Mean SNR: -9.82 dB
+
+[LoRa] Sent ACK21 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 22
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.25 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.27 dBm
+       Mean SNR: -9.80 dB
+
+[LoRa] Sent ACK22 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 23
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -9.78 dB
+
+[LoRa] Sent ACK23 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 24
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -9.76 dB
+
+[LoRa] Sent ACK24 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 25
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.50 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.24 dBm
+       Mean SNR: -9.79 dB
+
+[LoRa] Sent ACK25 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 26
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.23 dBm
+       Mean SNR: -9.85 dB
+
+[LoRa] Sent ACK26 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 26
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -10.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -9.88 dB
+
+[LoRa] Sent ACK26 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 27
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -9.90 dB
+
+[LoRa] Sent ACK27 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 28
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.24 dBm
+       Mean SNR: -9.98 dB
+
+[LoRa] Sent ACK28 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 29
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.23 dBm
+       Mean SNR: -10.02 dB
+
+[LoRa] Sent ACK29 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 30
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -10.06 dB
+
+[LoRa] Sent ACK30 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 31
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -10.11 dB
+
+[LoRa] Sent ACK31 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 32
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.24 dBm
+       Mean SNR: -10.18 dB
+
+[LoRa] Sent ACK32 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 33
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.24 dBm
+       Mean SNR: -10.23 dB
+
+[LoRa] Sent ACK33 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 34
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -13.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -10.31 dB
+
+[LoRa] Sent ACK34 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 35
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -10.33 dB
+
+[LoRa] Sent ACK35 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 36
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -10.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.27 dBm
+       Mean SNR: -10.33 dB
+
+[LoRa] Sent ACK36 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 37
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -9.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -10.31 dB
+
+[LoRa] Sent ACK37 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 38
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -10.34 dB
+
+[LoRa] Sent ACK38 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 39
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -10.36 dB
+
+[LoRa] Sent ACK39 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 40
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -100 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.38 dB
+
+[LoRa] Sent ACK40 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 41
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -100 dBm
+       SNR: -10.75 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.19 dBm
+       Mean SNR: -10.39 dB
+
+[LoRa] Sent ACK41 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 42
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.19 dBm
+       Mean SNR: -10.44 dB
+
+[LoRa] Sent ACK42 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 43
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.00 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.18 dBm
+       Mean SNR: -10.48 dB
+
+[LoRa] Sent ACK43 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 44
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.18 dBm
+       Mean SNR: -10.51 dB
+
+[LoRa] Sent ACK44 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 45
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.20 dBm
+       Mean SNR: -10.53 dB
+
+[LoRa] Sent ACK45 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 46
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -10.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.21 dBm
+       Mean SNR: -10.54 dB
+
+[LoRa] Sent ACK46 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 47
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -10.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.21 dBm
+       Mean SNR: -10.53 dB
+
+[LoRa] Sent ACK47 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 48
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -10.00 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.52 dB
+
+[LoRa] Sent ACK48 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 49
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.75 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.56 dB
+
+[LoRa] Sent ACK49 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 50
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.25 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.59 dB
+
+[LoRa] Sent ACK50 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 51
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.23 dBm
+       Mean SNR: -10.62 dB
+
+[LoRa] Sent ACK51 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 52
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.23 dBm
+       Mean SNR: -10.63 dB
+
+[LoRa] Sent ACK52 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 53
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.65 dB
+
+[LoRa] Sent ACK53 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 54
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.22 dBm
+       Mean SNR: -10.66 dB
+
+[LoRa] Sent ACK54 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 55
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.00 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.21 dBm
+       Mean SNR: -10.72 dB
+
+[LoRa] Sent ACK55 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 56
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.50 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.23 dBm
+       Mean SNR: -10.81 dB
+
+[LoRa] Sent ACK56 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 57
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.75 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.24 dBm
+       Mean SNR: -10.91 dB
+
+[LoRa] Sent ACK57 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 58
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.50 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -10.99 dB
+
+[LoRa] Sent ACK58 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 59
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -15.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.25 dBm
+       Mean SNR: -11.07 dB
+
+[LoRa] Sent ACK59 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 60
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.26 dBm
+       Mean SNR: -11.15 dB
+
+[LoRa] Sent ACK60 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 61
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.27 dBm
+       Mean SNR: -11.23 dB
+
+[LoRa] Sent ACK61 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 62
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -18.50 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.29 dBm
+       Mean SNR: -11.35 dB
+
+[LoRa] Sent ACK62 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 63
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -19.50 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.30 dBm
+       Mean SNR: -11.47 dB
+
+[LoRa] Sent ACK63 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 63
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -18.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.31 dBm
+       Mean SNR: -11.58 dB
+
+[LoRa] Sent ACK63 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 63
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -18.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.32 dBm
+       Mean SNR: -11.68 dB
+
+[LoRa] Sent ACK63 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 64
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -18.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.33 dBm
+       Mean SNR: -11.78 dB
+
+[LoRa] Sent ACK64 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 65
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.34 dBm
+       Mean SNR: -11.86 dB
+
+[LoRa] Sent ACK65 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 66
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.00 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.35 dBm
+       Mean SNR: -11.90 dB
+
+[LoRa] Sent ACK66 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 67
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.00 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.36 dBm
+       Mean SNR: -11.95 dB
+
+[LoRa] Sent ACK67 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 68
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.37 dBm
+       Mean SNR: -11.99 dB
+
+[LoRa] Sent ACK68 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 69
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.38 dBm
+       Mean SNR: -12.05 dB
+
+[LoRa] Sent ACK69 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 70
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -17.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.37 dBm
+       Mean SNR: -12.11 dB
+
+[LoRa] Sent ACK70 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 71
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.38 dBm
+       Mean SNR: -12.16 dB
+
+[LoRa] Sent ACK71 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 72
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -17.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.39 dBm
+       Mean SNR: -12.23 dB
+
+[LoRa] Sent ACK72 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 73
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.00 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.39 dBm
+       Mean SNR: -12.28 dB
+
+[LoRa] Sent ACK73 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 74
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -103 dBm
+       SNR: -16.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.42 dBm
+       Mean SNR: -12.34 dB
+
+[LoRa] Sent ACK74 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 75
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -16.25 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.42 dBm
+       Mean SNR: -12.39 dB
+
+[LoRa] Sent ACK75 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 76
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -103 dBm
+       SNR: -16.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.44 dBm
+       Mean SNR: -12.44 dB
+
+[LoRa] Sent ACK76 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 77
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.45 dBm
+       Mean SNR: -12.48 dB
+
+[LoRa] Sent ACK77 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 78
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -10.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.46 dBm
+       Mean SNR: -12.46 dB
+
+[LoRa] Sent ACK78 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 79
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.46 dBm
+       Mean SNR: -12.45 dB
+
+[LoRa] Sent ACK79 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 80
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.47 dBm
+       Mean SNR: -12.44 dB
+
+[LoRa] Sent ACK80 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 81
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -11.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.46 dBm
+       Mean SNR: -12.42 dB
+
+[LoRa] Sent ACK81 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 82
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.25 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.47 dBm
+       Mean SNR: -12.45 dB
+
+[LoRa] Sent ACK82 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 83
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.25 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.49 dB
+
+[LoRa] Sent ACK83 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 84
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.00 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.51 dB
+
+[LoRa] Sent ACK84 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 85
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.54 dB
+
+[LoRa] Sent ACK85 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 86
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -15.00 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.56 dB
+
+[LoRa] Sent ACK86 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 87
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.50 dB
+       Message: 0000000000009a41
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.59 dB
+
+[LoRa] Sent ACK87 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 88
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.50 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.47 dBm
+       Mean SNR: -12.61 dB
+
+[LoRa] Sent ACK88 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 89
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -14.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.63 dB
+
+[LoRa] Sent ACK89 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 90
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -13.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.48 dBm
+       Mean SNR: -12.64 dB
+
+[LoRa] Sent ACK90 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 91
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -9.75 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.61 dB
+
+[LoRa] Sent ACK91 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 92
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -13.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.62 dB
+
+[LoRa] Sent ACK92 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 93
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -11.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -12.61 dB
+
+[LoRa] Sent ACK93 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 94
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.50 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.61 dB
+
+[LoRa] Sent ACK94 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 95
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.75 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.63 dB
+
+[LoRa] Sent ACK95 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 96
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -13.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.63 dB
+
+[LoRa] Sent ACK96 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 97
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -13.50 dB
+       Message: 0000000000009841
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.64 dB
+
+[LoRa] Sent ACK97 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 98
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -14.00 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK98 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 99
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -12.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK99 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 100
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -13.50 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.66 dB
+
+[LoRa] Sent ACK100 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 101
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -12.00 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.49 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK101 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 102
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -103 dBm
+       SNR: -12.25 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.50 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK102 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 103
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -103 dBm
+       SNR: -13.25 dB
+       Message: 0000000000009441
+       Mean RSSI: -101.52 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK103 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 104
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -101 dBm
+       SNR: -12.75 dB
+       Message: 0000000000009641
+       Mean RSSI: -101.51 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK104 to 0x0
+
+[LoRa] Sender ID: 0x0
+       Recipient ID: 0xe
+       Msg ID: 105
+       Msg Len: 8 B
+       Msg type: DATAT
+       RSSI: -102 dBm
+       SNR: -12.50 dB
+       Message: 0000000000009241
+       Mean RSSI: -101.52 dBm
+       Mean SNR: -12.65 dB
+
+[LoRa] Sent ACK105 to 0x0
+

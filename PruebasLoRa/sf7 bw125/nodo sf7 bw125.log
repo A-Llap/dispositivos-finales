@@ -1,0 +1,1485 @@
+� xxxxx� �x� x�xxxx �x�x�x�� � x� � xxxx �x�x�x�� � x� � x �xx �---- LORA CONFIGURATION TEST ----
+Spreading factor: 7
+Bandwidth: 125000
+[LoRa] Initializing LoRa Duplex
+[LoRa] LoRa init succeeded.
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Resending data.
+[LoRa] Resending data.
+[LoRa] Resending data.
+[LoRa] Data was not acknowledged.
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 3. Ack: 3.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 1
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -99 dBm
+       SNR: -2.00 dB
+       Message: 03
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 4. Ack: 4.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 2
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -102 dBm
+       SNR: -2.75 dB
+       Message: 04
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 5. Ack: 5.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 3
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -102 dBm
+       SNR: -1.00 dB
+       Message: 05
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 6. Ack: 6.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 4
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -3.00 dB
+       Message: 06
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 7. Ack: 7.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 5
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -3.00 dB
+       Message: 07
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 8. Ack: 8.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 6
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -4.50 dB
+       Message: 08
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 9. Ack: 9.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 7
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.25 dB
+       Message: 09
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 10. Ack: 10.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 8
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -3.50 dB
+       Message: 0a
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 11. Ack: 11.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 9
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -3.00 dB
+       Message: 0b
+[Sens] Temperature reading: 0.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 12. Ack: 12.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 10
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -106 dBm
+       SNR: -8.25 dB
+       Message: 0c
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 13. Ack: 13.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 11
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -7.25 dB
+       Message: 0d
+[Sens] Temperature reading: 18.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 14. Ack: 14.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 12
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.25 dB
+       Message: 0e
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 15. Ack: 15.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 13
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -8.25 dB
+       Message: 0f
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 16. Ack: 16.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 14
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 10
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 17. Ack: 17.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 15
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -106 dBm
+       SNR: -5.00 dB
+       Message: 11
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 18. Ack: 18.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 16
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -7.50 dB
+       Message: 12
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 19. Ack: 19.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 17
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 13
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 20. Ack: 20.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 18
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 14
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 21. Ack: 21.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 19
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.25 dB
+       Message: 15
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 22. Ack: 22.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 20
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 16
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 23. Ack: 23.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 21
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.25 dB
+       Message: 17
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 24. Ack: 24.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 22
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 18
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 25. Ack: 25.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 23
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.75 dB
+       Message: 19
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 26. Ack: 26.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 24
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.00 dB
+       Message: 1a
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 27. Ack: 27.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 25
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.00 dB
+       Message: 1b
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 28. Ack: 28.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 26
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 1c
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 29. Ack: 29.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 27
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 1d
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 30. Ack: 30.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 28
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.50 dB
+       Message: 1e
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 31. Ack: 31.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 29
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -3.75 dB
+       Message: 1f
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 32. Ack: 32.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 30
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.75 dB
+       Message: 20
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 33. Ack: 33.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 31
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.75 dB
+       Message: 21
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 34. Ack: 34.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 32
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.25 dB
+       Message: 22
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 35. Ack: 35.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 33
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -7.75 dB
+       Message: 23
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 36. Ack: 36.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 34
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.75 dB
+       Message: 24
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 37. Ack: 37.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 35
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 25
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 38. Ack: 38.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 36
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.75 dB
+       Message: 26
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 39. Ack: 39.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 37
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.00 dB
+       Message: 27
+[Sens] Temperature reading: 19.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 40. Ack: 40.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 38
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.75 dB
+       Message: 28
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 39
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.25 dB
+       Message: 69
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 41. Ack: 41.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 40
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.00 dB
+       Message: 29
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 42. Ack: 42.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 41
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.50 dB
+       Message: 2a
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 43. Ack: 43.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 42
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.50 dB
+       Message: 2b
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 44. Ack: 44.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 43
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.25 dB
+       Message: 2c
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 45. Ack: 45.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 44
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.00 dB
+       Message: 2d
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 46. Ack: 46.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 45
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.75 dB
+       Message: 2e
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 47. Ack: 47.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 46
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -4.75 dB
+       Message: 2f
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 48. Ack: 48.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 47
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.25 dB
+       Message: 30
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 49. Ack: 49.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 48
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 31
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 50. Ack: 50.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 49
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 32
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 51. Ack: 51.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 50
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.00 dB
+       Message: 33
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 52. Ack: 52.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 51
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.00 dB
+       Message: 34
+[Sens] Temperature reading: 18.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 53. Ack: 53.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 52
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.00 dB
+       Message: 35
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 54. Ack: 54.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 53
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.25 dB
+       Message: 36
+[Sens] Temperature reading: 17.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 55. Ack: 55.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 54
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.50 dB
+       Message: 37
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 56. Ack: 56.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 55
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.75 dB
+       Message: 38
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 57. Ack: 57.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 56
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 39
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 58. Ack: 58.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 57
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.00 dB
+       Message: 3a
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 59. Ack: 59.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 58
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -8.00 dB
+       Message: 3b
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 60. Ack: 60.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 59
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.75 dB
+       Message: 3c
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 61. Ack: 61.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 60
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.00 dB
+       Message: 3d
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 62. Ack: 62.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 61
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.50 dB
+       Message: 3e
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 63. Ack: 63.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 62
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -2.50 dB
+       Message: 3f
+[Sens] Temperature reading: 19.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 64. Ack: 64.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 63
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.50 dB
+       Message: 40
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 65. Ack: 65.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 64
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -2.75 dB
+       Message: 41
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 66. Ack: 66.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 65
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.25 dB
+       Message: 42
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 67. Ack: 67.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 66
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.00 dB
+       Message: 43
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 68. Ack: 68.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 67
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.50 dB
+       Message: 44
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 69. Ack: 69.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 68
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.25 dB
+       Message: 45
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 70. Ack: 70.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 69
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.25 dB
+       Message: 46
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 71. Ack: 71.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 70
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.25 dB
+       Message: 47
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 72. Ack: 72.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 71
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.25 dB
+       Message: 48
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 73. Ack: 73.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 72
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.00 dB
+       Message: 49
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 74. Ack: 74.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 73
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 4a
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 75. Ack: 75.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 74
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 4b
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 76. Ack: 76.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 75
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.50 dB
+       Message: 4c
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 77. Ack: 77.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 76
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -2.75 dB
+       Message: 4d
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 78. Ack: 78.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 78
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -101 dBm
+       SNR: -8.50 dB
+       Message: 4e
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 79. Ack: 79.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 79
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.50 dB
+       Message: 4f
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 80. Ack: 80.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 80
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.00 dB
+       Message: 50
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 81. Ack: 81.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 81
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.75 dB
+       Message: 51
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 82. Ack: 82.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 82
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.00 dB
+       Message: 52
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 83. Ack: 83.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 83
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 53
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 84. Ack: 84.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 84
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.25 dB
+       Message: 54
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 85. Ack: 85.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 85
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.00 dB
+       Message: 55
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 86. Ack: 86.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 86
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.25 dB
+       Message: 56
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 87. Ack: 87.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 87
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.75 dB
+       Message: 57
+[Sens] Temperature reading: 19.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 88. Ack: 88.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 88
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.25 dB
+       Message: 58
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 89. Ack: 89.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 89
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.00 dB
+       Message: 59
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 90. Ack: 90.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 90
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.50 dB
+       Message: 5a
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 91. Ack: 91.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 91
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.00 dB
+       Message: 5b
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 92. Ack: 92.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 92
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -2.75 dB
+       Message: 5c
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+This msg is not for me.
+[LoRa] Resending data.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 94
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.50 dB
+       Message: cd
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 93. Ack: 93.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 95
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.00 dB
+       Message: 5d
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 94. Ack: 94.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 96
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 5e
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 95. Ack: 95.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 97
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.25 dB
+       Message: 5f
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 96. Ack: 96.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 98
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.75 dB
+       Message: 60
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 97. Ack: 97.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 99
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -103 dBm
+       SNR: -4.00 dB
+       Message: 61
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 98. Ack: 98.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 100
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.75 dB
+       Message: 62
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 99. Ack: 99.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 101
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -4.50 dB
+       Message: 63
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 100. Ack: 100.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 102
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.25 dB
+       Message: 64
+[Sens] Temperature reading: 18.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 101. Ack: 101.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 103
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.75 dB
+       Message: 65
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 102. Ack: 102.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 104
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.25 dB
+       Message: 66
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 103. Ack: 103.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 105
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.25 dB
+       Message: 67
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+This msg is not for me.
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 104. Ack: 104.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 107
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -8.00 dB
+       Message: 68
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 105. Ack: 105.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 108
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.00 dB
+       Message: 69
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 106. Ack: 106.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 109
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -6.00 dB
+       Message: 6a
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 107. Ack: 107.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 110
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -5.75 dB
+       Message: 6b
+[Sens] Temperature reading: 18.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 108. Ack: 108.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 111
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.00 dB
+       Message: 6c
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 109. Ack: 109.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 112
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.25 dB
+       Message: 6d
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 110. Ack: 110.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 113
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.25 dB
+       Message: 6e
+[Sens] Temperature reading: 19.50 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 111. Ack: 111.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 114
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.00 dB
+       Message: 6f
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 112. Ack: 112.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 115
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -3.75 dB
+       Message: 70
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 113. Ack: 113.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 116
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.00 dB
+       Message: 71
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 114. Ack: 114.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 117
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -8.75 dB
+       Message: 72
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 115. Ack: 115.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 118
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -8.00 dB
+       Message: 73
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 116. Ack: 116.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 119
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -105 dBm
+       SNR: -7.00 dB
+       Message: 74
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 117. Ack: 117.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 121
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -100 dBm
+       SNR: -6.75 dB
+       Message: 75
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 118. Ack: 118.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 122
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.25 dB
+       Message: 76
+[Sens] Temperature reading: 19.00 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 119. Ack: 119.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 123
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.75 dB
+       Message: 77
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 124
+       Msg Len: 1 B
+       Msg type: 
+       RSSI: -104 dBm
+       SNR: -8.25 dB
+       Message: 78
+[LoRa] Resending data.
+[LoRa] Data acknowledged. Msg: 120. Ack: 120.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 125
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -7.25 dB
+       Message: 78
+[Sens] Temperature reading: 19.25 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 121. Ack: 121.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 126
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -6.50 dB
+       Message: 79
+[Sens] Temperature reading: 18.75 °C
+
+[LoRa] Sending data.
+[LoRa] Data acknowledged. Msg: 122. Ack: 122.
+[LoRa] Sender ID: 0xe
+       Recipient ID: 0x0
+       Msg ID: 127
+       Msg Len: 1 B
+       Msg type: ACK
+       RSSI: -104 dBm
+       SNR: -5.50 dB
+       Message: 7a
